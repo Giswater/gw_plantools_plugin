@@ -1,0 +1,27 @@
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=gw_plan_extratools_plugin
+qgisMinimumVersion=3.10.13
+qgisMaximumVersion=3.99
+description=Masterplan extra tools for giswater plugin
+version=1.1.01
+
+author=Nestor Ibáñez, David Erill, Barbara Rzepka, Sergi Muñoz, Josep Lluís Sala, Edgar Fusté, Sergi Maspons, Albert Bofill, Xavier Torret
+
+# End of mandatory metadata
+
+changelog=Version 1.1.01 (01/02/2021)
+    - Initial commit
+   
+# Tags are comma separated with spaces allowed
+tags= giswater, water networks, sewerage, urban drainage, EPANET, SWMM
+
+homepage=https://www.giswater.org
+repository=https://github.com/giswater
+tracker=https://github.com/giswater
+category=Plugins
+icon=icons/dialogs/20x20/giswater.png
+experimental=True
+deprecated=False

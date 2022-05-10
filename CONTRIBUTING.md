@@ -1,4 +1,4 @@
-## WELCOME TO GISWATER CONTRIBUTORS GUIDE (gw_example_plugin)
+## WELCOME TO GISWATER CONTRIBUTORS GUIDE (gw_plan_extratools)
 
 This repo is focused to to add capabilities in order to generate composer files.
 

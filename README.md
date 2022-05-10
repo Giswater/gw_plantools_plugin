@@ -1,6 +1,6 @@
 ## WELCOME TO GISWATER PROJECT (gw_plan_extratools_plugin)
 
-This repo is focused to to add capabilities in order to generate composer files.
+This repo is focused to add capabilities in order to generate composer files.
 
 ## TABLE OF CONTENTS
 Here after you will find all the information you need to getting started with gw_plan_extratools_plugin<br>

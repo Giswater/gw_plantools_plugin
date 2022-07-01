@@ -2,10 +2,10 @@
 # Mandatory items:
 
 [general]
-name=gw_plan_extratools_plugin
+name=gw_plan_tools_plugin
 qgisMinimumVersion=3.10.13
 qgisMaximumVersion=3.99
-description=Masterplan extra tools for giswater plugin
+description=Masterplan tools for giswater plugin
 version=1.1.01
 
 author=Nestor Ibáñez, David Erill, Barbara Rzepka, Sergi Muñoz, Josep Lluís Sala, Edgar Fusté, Sergi Maspons, Albert Bofill, Xavier Torret

@@ -1,4 +1,4 @@
-## WELCOME TO GISWATER CONTRIBUTORS GUIDE (gw_plan_tools)
+## WELCOME TO GISWATER CONTRIBUTORS GUIDE (gw_plantools_plugin)
 
 This repo is focused to to add capabilities in order to generate composer files.
 

@@ -2,7 +2,7 @@
 # Mandatory items:
 
 [general]
-name=gw_plan_tools_plugin
+name=gw_plantools_plugin
 qgisMinimumVersion=3.10.13
 qgisMaximumVersion=3.99
 description=Masterplan tools for giswater plugin
